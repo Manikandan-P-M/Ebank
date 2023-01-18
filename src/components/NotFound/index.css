@@ -1,0 +1,23 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found-image {
+  width: 400px;
+  object-fit: contain;
+}
+
+.not-found-head {
+  color: #475569;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.not-found-desc {
+  color: #64748b;
+  font-weight: 400;
+}
